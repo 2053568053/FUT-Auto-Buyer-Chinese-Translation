@@ -1,4 +1,4 @@
-<h1>FUT AutoBuyer-(Chinese Translation)</h1>
+<h1>FUT-(Chinese Translation)</h1>
 <h3 align="center">
   Must Read
 </h3>
